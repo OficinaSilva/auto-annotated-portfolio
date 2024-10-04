@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: ''
+    title: 'Gonçalo Silva '
     subtitle: ''
     styles:
       self:
