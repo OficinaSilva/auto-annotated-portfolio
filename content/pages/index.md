@@ -97,6 +97,9 @@ sections:
       - type: Label
         label: POO
         url: ''
+      - type: Label
+        label: ViewJS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
