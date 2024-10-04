@@ -68,7 +68,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: HTML
+        label: HTML5
         url: ''
       - type: Label
         label: Hardware
