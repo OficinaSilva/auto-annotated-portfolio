@@ -71,7 +71,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    title: Capacidades Tecnicas
+    title: Capacidades Técnicas
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
