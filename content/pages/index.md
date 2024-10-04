@@ -98,7 +98,7 @@ sections:
         label: POO
         url: ''
       - type: Label
-        label: ViewJS
+        label: VIEWJS
         url: ''
     colors: colors-f
     elementId: ''
