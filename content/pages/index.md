@@ -221,7 +221,7 @@ sections:
           - pl-4
           - pr-4
         justifyContent: center
-        borderWidth: 6
+        borderWidth: 1
       quote:
         textAlign: center
       name:
