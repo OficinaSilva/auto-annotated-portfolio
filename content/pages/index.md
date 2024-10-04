@@ -147,7 +147,11 @@ sections:
       - type: Testimonial
         quote: |
           TextBasedGame - Aventura
-        name: John Doe
+        name: >-
+          Trabalho desenvolvido em Python, onde foi implementado um jogo
+          TextBased. O objetivo inicial passa por criar uma plataforma de
+          decisão de 4 níveis. O meu tema é uma aventura por uma floresta
+          escura.
         title: CEO at Parks
         image:
           type: ImageBlock
