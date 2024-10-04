@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: 'Gonçalo Silva '
-    subtitle: ''
+    subtitle: 'Estudante do Curso de Gestão e programação de Sistemas Informaticos '
     styles:
       self:
         height: auto
