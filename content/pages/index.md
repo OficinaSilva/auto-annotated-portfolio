@@ -46,7 +46,7 @@ sections:
         label: c++
         altText: ''
         url: /c++
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: left
         style: secondary
