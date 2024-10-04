@@ -37,7 +37,7 @@ sections:
     actions: []
   - type: LabelsSection
     title: Capacidades Técnicas
-    subtitle: The section subtitle
+    subtitle: ''
     items:
       - type: Label
         label: 'WEB 1, 2, 3'
