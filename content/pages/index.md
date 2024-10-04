@@ -124,7 +124,7 @@ sections:
         name: >-
           Neste projeto junto com meu grupo de 6 pessoas criamos uma loja de
           produtos eletrónicos
-        title: CEO at Parks
+        title: ''
         image:
           type: ImageBlock
           url: /images/media.png
