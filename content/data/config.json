@@ -36,28 +36,5 @@
                 "width": "full"
             }
         }
-    },
-    "footer": {
-        "type": "Footer",
-        "primaryLinks": [
-            {
-                "type": "Link",
-                "label": "Gonçalo Silva - 14450",
-                "url": "/",
-                "altText": ""
-            }
-        ],
-        "copyrightText": "\n\n",
-        "styles": {
-            "self": {
-                "width": "narrow",
-                "padding": [
-                    "pt-16",
-                    "pb-16",
-                    "pr-4",
-                    "pl-4"
-                ]
-            }
-        }
     }
 }
