@@ -43,9 +43,6 @@ sections:
         label: HTML
         url: ''
       - type: Label
-        label: c++
-        url: ''
-      - type: Label
         label: Hardware
         url: ''
       - type: Label
