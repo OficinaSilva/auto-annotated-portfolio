@@ -8,16 +8,7 @@
         "title": "Gonçalo Silva",
         "isTitleVisible": true,
         "primaryLinks": [],
-        "socialLinks": [
-            {
-                "type": "Social",
-                "label": "",
-                "altText": "",
-                "url": "/https://github.com/OficinaSilva",
-                "icon": "github",
-                "elementId": ""
-            }
-        ],
+        "socialLinks": [],
         "styles": {
             "self": {
                 "width": "full"
