@@ -38,7 +38,8 @@ sections:
     media:
       type: ImageBlock
       url: >-
-        /images/B3E2A870-9C8E-43AF-8A04-2EC8E1B8CF61_L0_001-26_09_2023__18_41_43-removebg-preview.png
+        /images/B3E2A870-9C8E-43AF-8A04-2EC8E1B8CF61_L0_001-26_09_2023,
+        18_41_43.jpg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
