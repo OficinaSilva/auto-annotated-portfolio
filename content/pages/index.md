@@ -43,6 +43,15 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
+    text: >+
+      Sou o Gonçalo Silva ,tenho 17 anos e vivo em Paços de Ferreira. Gosto de 
+      fotografia desportiva. Tenho alguma
+
+      experiencia na área da fotografia. hardware e programação, mas gosto
+      sempre de aprender mais e ter
+
+      mais experiência.
+
   - type: LabelsSection
     title: Capacidades Técnicas
     subtitle: ''
