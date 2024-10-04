@@ -52,6 +52,22 @@ sections:
 
       mais experiência.
 
+
+
+
+
+
+
+
+
+
+      **Email:** a14450\@oficina / gdinis668\@gmail.com
+
+
+      **Telemóvel:** +351 935 516 479
+
+
+
   - type: LabelsSection
     title: Capacidades Técnicas
     subtitle: ''
