@@ -37,7 +37,7 @@ sections:
     actions: []
   - type: FeaturedPostsSection
     elementId: ''
-    colors: colors-f
+    colors: colors-a
     variant: variant-d
     subtitle: ''
     showFeaturedImage: false
