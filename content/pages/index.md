@@ -51,6 +51,9 @@ sections:
       - type: Label
         label: Edição de vídeo
         url: ''
+      - type: Label
+        label: Fotografia
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
