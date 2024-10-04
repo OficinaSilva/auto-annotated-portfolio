@@ -171,7 +171,7 @@ sections:
           Neste projeto desenvolvi uma pagina web onde utilizava uma base de
           dados e consistia em adicionar utilizadores com nome, sobrenome e
           localização 
-        title: Product Marketing Manager at Acme
+        title: ''
         image:
           type: ImageBlock
           url: /images/Captura de ecrã 2024-10-04 154928.png
