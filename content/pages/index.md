@@ -61,7 +61,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: Harware
         altText: ''
         url: /hardware
         showIcon: false
