@@ -43,7 +43,7 @@ sections:
         label: HTML
         url: ''
       - type: Label
-        label: React
+        label: c++
         url: ''
       - type: Label
         label: Microsoft Office
