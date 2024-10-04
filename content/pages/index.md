@@ -46,7 +46,7 @@ sections:
         label: c++
         url: ''
       - type: Label
-        label: Microsoft Office
+        label: Hard
         url: ''
       - type: Label
         label: Next.js
