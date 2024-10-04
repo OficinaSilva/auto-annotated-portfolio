@@ -141,7 +141,7 @@ sections:
         quote: |
           Desenvolvimento de uma página web utilizando a base de dados
         name: 'Neste projeto desenvolvi uma pagina web utilizando base de dados '
-        title: Product Marketing Manager at Acme
+        title: ''
         image:
           type: ImageBlock
           url: /images/person-3.jpg
