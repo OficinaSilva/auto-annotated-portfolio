@@ -167,7 +167,10 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: "Desenvolvimento de uma página web utilizando a base de dados\_\n\n"
-        name: 'Neste projeto desenvolvi uma pagina web '
+        name: >-
+          Neste projeto desenvolvi uma pagina web onde utilizava uma base de
+          dados e consistia em adicionar utilizadores com nome, sobrenome e
+          localização 
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
