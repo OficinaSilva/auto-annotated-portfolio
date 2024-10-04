@@ -98,7 +98,7 @@ sections:
         label: POO
         url: ''
       - type: Label
-        label: VIEWJS
+        label: VIEW.JS
         url: ''
       - type: Label
         label: NODE.JS
