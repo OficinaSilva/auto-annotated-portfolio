@@ -41,7 +41,16 @@ sections:
     variant: variant-d
     subtitle: ''
     showFeaturedImage: false
-    actions: []
+    actions:
+      - type: Button
+        label: Learn more
+        altText: ''
+        url: /c++
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     posts: []
     showDate: true
     showExcerpt: true
