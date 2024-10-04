@@ -121,7 +121,9 @@ sections:
       - type: Testimonial
         quote: |
           Projeto - Loja de produtos eletrónicos
-        name: John Doe
+        name: >-
+          Neste projeto junto com meu grupo de 6 pessoas criamos uma loja de
+          produtos eletrónicos
         title: CEO at Parks
         image:
           type: ImageBlock
