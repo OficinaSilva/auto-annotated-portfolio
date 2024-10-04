@@ -52,7 +52,7 @@ sections:
         style: primary
         elementId: ''
       - type: Button
-        label: Learn more
+        label: html
         altText: ''
         url: /html
         showIcon: false
