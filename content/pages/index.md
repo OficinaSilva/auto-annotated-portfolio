@@ -71,7 +71,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
-    title: Bioagrafia
+    title: Capacidades Tecnicas
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
