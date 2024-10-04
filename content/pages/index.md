@@ -36,7 +36,7 @@ sections:
     type: HeroSection
     actions: []
   - type: LabelsSection
-    title: Skills
+    title: Capacidades Técnicas
     subtitle: The section subtitle
     items:
       - type: Label
