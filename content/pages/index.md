@@ -167,7 +167,7 @@ sections:
             fontWeight: 400
       - type: Testimonial
         quote: "Desenvolvimento de uma página web utilizando a base de dados\_\n\n"
-        name: Johnna Doe
+        name: 'Neste projeto desenvolvi uma pagima web '
         title: Product Marketing Manager at Acme
         image:
           type: ImageBlock
