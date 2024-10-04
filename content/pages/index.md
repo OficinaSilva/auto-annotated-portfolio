@@ -87,7 +87,7 @@ sections:
           - pb-48
           - pl-4
           - pr-4
-        justifyContent: center
+        justifyContent: flex-end
         borderRadius: none
         borderWidth: 0
         borderStyle: none
