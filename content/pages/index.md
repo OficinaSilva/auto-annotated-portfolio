@@ -155,7 +155,7 @@ sections:
         title: ''
         image:
           type: ImageBlock
-          url: /images/person-2.jpg
+          url: /images/Captura de ecrã 2024-10-04 154743.png
           altText: John Doe
           caption: Caption of the image
           elementId: ''
