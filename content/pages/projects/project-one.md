@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: Loja de produtos eletrónicos
+title: Projeto - Loja de produtos eletrónicos
 colors: colors-a
 date: '2021-10-15'
 client: Awesome client
