@@ -83,7 +83,7 @@ sections:
         label: Fotografia
         url: ''
       - type: Label
-        label: CSS
+        label: CSS3
         url: ''
       - type: Label
         label: MySQL
