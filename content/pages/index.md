@@ -43,7 +43,7 @@ sections:
     showFeaturedImage: false
     actions:
       - type: Button
-        label: Learn more
+        label: c++
         altText: ''
         url: /bb
         showIcon: false
