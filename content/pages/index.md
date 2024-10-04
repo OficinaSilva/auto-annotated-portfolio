@@ -144,7 +144,7 @@ sections:
         title: ''
         image:
           type: ImageBlock
-          url: /images/person-3.jpg
+          url: /images/Captura de ecrã 2024-10-04 153615.png
           altText: Johnna Doe
           caption: Caption of the image
           elementId: ''
