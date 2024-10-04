@@ -118,8 +118,7 @@ sections:
         name: >-
           Neste projeto junto com meu grupo de 6 pessoas criamos uma loja de
           produtos eletrónicos
-        title: >-
-          https://drive.google.com/drive/folders/1raOhjZ7fYjkRE9ehBWfAsabdz6eu6f0-
+        title: ''
         image:
           type: ImageBlock
           url: /images/media.png
