@@ -46,7 +46,7 @@ sections:
         label: c++
         url: ''
       - type: Label
-        label: Hard
+        label: Hardware
         url: ''
       - type: Label
         label: Next.js
