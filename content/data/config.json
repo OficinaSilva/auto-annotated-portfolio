@@ -5,39 +5,30 @@
         "type": "Header",
         "headerVariant": "variant-c",
         "isSticky": false,
-        "title": "Personal",
+        "title": "Gonçalo Silva",
         "isTitleVisible": true,
         "primaryLinks": [
             {
                 "type": "Link",
-                "label": "Info",
+                "label": "Capacidades Tecnicas",
                 "url": "/info"
             },
             {
                 "type": "Link",
-                "label": "Projects",
-                "url": "/projects"
-            },
-            {
-                "type": "Link",
-                "label": "Blog",
-                "url": "/blog"
+                "label": "Projetos",
+                "url": "/projects",
+                "showIcon": false,
+                "iconPosition": "right"
             }
         ],
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "Twitter",
-                "label": "Twitter",
-                "url": "https://twitter.com/netlify",
-                "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "label": "",
+                "altText": "",
+                "url": "/",
+                "icon": "github",
+                "elementId": ""
             }
         ],
         "styles": {
@@ -88,7 +79,12 @@
         "styles": {
             "self": {
                 "width": "narrow",
-                "padding": ["pt-16", "pb-16", "pr-4", "pl-4"]
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
             }
         }
     }
