@@ -21,7 +21,16 @@
                 "iconPosition": "right"
             }
         ],
-        "socialLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Facebook",
+                "altText": "",
+                "url": "/",
+                "icon": "facebook",
+                "elementId": ""
+            }
+        ],
         "styles": {
             "self": {
                 "width": "full"
