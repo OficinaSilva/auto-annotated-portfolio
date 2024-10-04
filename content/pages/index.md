@@ -94,6 +94,9 @@ sections:
       - type: Label
         label: C
         url: ''
+      - type: Label
+        label: POO
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
