@@ -71,6 +71,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-end
+    title: Bioagrafia
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
