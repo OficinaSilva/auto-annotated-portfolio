@@ -146,8 +146,6 @@ sections:
     testimonials:
       - type: Testimonial
         quote: |
-          #
-
           TextBasedGame - Aventura
         name: John Doe
         title: CEO at Parks
