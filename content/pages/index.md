@@ -208,7 +208,7 @@ sections:
 
 
     name: ''
-    title: Product Marketing Manager at Acme
+    title: Gonçalo Silva - 14450
     colors: colors-f
     elementId: ''
     styles:
