@@ -68,6 +68,9 @@ sections:
       - type: Label
         label: MySQL
         url: ''
+      - type: Label
+        label: Arduino
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
