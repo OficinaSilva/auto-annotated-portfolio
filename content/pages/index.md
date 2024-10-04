@@ -207,7 +207,7 @@ sections:
 
 
 
-    name: Johnna Doe
+    name: ''
     title: Product Marketing Manager at Acme
     colors: colors-f
     elementId: ''
