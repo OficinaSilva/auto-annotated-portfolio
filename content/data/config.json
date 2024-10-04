@@ -17,7 +17,7 @@
                 "type": "Link",
                 "label": "Projetos",
                 "url": "/projects",
-                "showIcon": true
+                "showIcon": false
             }
         ],
         "socialLinks": [],
