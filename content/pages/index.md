@@ -62,6 +62,9 @@ sections:
       - type: Label
         label: Fotografia
         url: ''
+      - type: Label
+        label: CSS
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
