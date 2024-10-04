@@ -152,7 +152,7 @@ sections:
           TextBased. O objetivo inicial passa por criar uma plataforma de
           decisão de 4 níveis. O meu tema é uma aventura por uma floresta
           escura.
-        title: CEO at Parks
+        title: ''
         image:
           type: ImageBlock
           url: /images/person-2.jpg
