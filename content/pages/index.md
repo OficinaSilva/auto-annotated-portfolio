@@ -43,7 +43,7 @@ sections:
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
-    text: >+
+    text: >
       Sou o Gonçalo Silva ,tenho 17 anos e vivo em Paços de Ferreira. Gosto de 
       fotografia desportiva. Tenho alguma
 
@@ -52,6 +52,17 @@ sections:
 
       mais experiência.
 
+
+      \---------------------------------------------------------
+
+
+      **Email:** <a14450@oficina.pt> / <gdinis668@gmail.com>
+
+
+      **Telemóvel:** +351 935 516 479
+
+
+      **Cidade:**  Paços de Ferreira 
   - type: LabelsSection
     title: Capacidades Técnicas
     subtitle: ''
