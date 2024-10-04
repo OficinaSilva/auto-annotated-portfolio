@@ -100,6 +100,9 @@ sections:
       - type: Label
         label: VIEWJS
         url: ''
+      - type: Label
+        label: 'NODE:JS'
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
