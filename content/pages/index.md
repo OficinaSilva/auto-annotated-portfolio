@@ -60,6 +60,9 @@ sections:
 
 
       **Telemóvel:** +351 935 516 479
+
+
+      **Cidade:**  Paços de Ferreira 
   - type: LabelsSection
     title: Capacidades Técnicas
     subtitle: ''
