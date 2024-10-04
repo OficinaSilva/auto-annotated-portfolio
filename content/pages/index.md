@@ -91,6 +91,9 @@ sections:
       - type: Label
         label: Arduino
         url: ''
+      - type: Label
+        label: C
+        url: ''
     colors: colors-f
     elementId: ''
     styles:
