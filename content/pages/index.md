@@ -35,98 +35,60 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
-  - type: FeaturedPostsSection
-    elementId: ''
-    colors: colors-a
-    variant: variant-d
-    subtitle: ''
-    showFeaturedImage: false
-    actions:
-      - type: Button
-        label: c++
-        altText: ''
-        url: /bb
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        label: html
-        altText: ''
-        url: /html
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-      - type: Button
-        label: Harware
-        altText: ''
-        url: /hardware
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-    posts: []
-    showDate: true
-    showExcerpt: true
-    showReadMoreLink: true
-    styles:
-      self:
-        height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-48
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-end
+    media:
+      type: ImageBlock
+      url: >-
+        /images/B3E2A870-9C8E-43AF-8A04-2EC8E1B8CF61_L0_001-26_09_2023,
+        18_41_43.jpg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+    text: >+
+      Sou o Gonçalo Silva ,tenho 17 anos e vivo em Paços de Ferreira. Gosto de 
+      fotografia desportiva. Tenho alguma
+
+      experiencia na área da fotografia. hardware e programação, mas gosto
+      sempre de aprender mais e ter
+
+      mais experiência.
+
+  - type: LabelsSection
     title: Capacidades Técnicas
-  - colors: colors-f
-    type: FeaturedProjectsSection
+    subtitle: ''
+    items:
+      - type: Label
+        label: HTML
+        url: ''
+      - type: Label
+        label: Hardware
+        url: ''
+      - type: Label
+        label: C++
+        url: ''
+      - type: Label
+        label: Edição de vídeo
+        url: ''
+      - type: Label
+        label: Fotografia
+        url: ''
+      - type: Label
+        label: CSS
+        url: ''
+      - type: Label
+        label: MySQL
+        url: ''
+      - type: Label
+        label: Arduino
+        url: ''
+    colors: colors-f
     elementId: ''
-    actions:
-      - type: Link
-        label: See all projects
-        url: /projects
-    showDate: false
-    showDescription: true
-    showFeaturedImage: true
-    showReadMoreLink: true
-    variant: variant-b
-    projects:
-      - content/pages/projects/project-two.md
-      - content/pages/projects/project-three.md
-      - content/pages/projects/project-one.md
     styles:
       self:
         height: auto
         width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
         padding:
-          - pt-24
-          - pb-24
+          - pt-36
+          - pb-36
           - pl-4
           - pr-4
         justifyContent: center
@@ -134,75 +96,149 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-      actions:
-        justifyContent: flex-end
-    subtitle: Projects
-  - type: ContactSection
-    colors: colors-f
-    backgroundSize: full
-    title: "Got an interesting project? Tell me more...\U0001F4AC"
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: 1/2
-          type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve updates
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: |
+          Projeto - Loja de produtos eletrónicos
+        name: >-
+          Neste projeto junto com meu grupo de 6 pessoas criamos uma loja de
+          produtos eletrónicos
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/media.png
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: |
+          Desenvolvimento de uma página web utilizando a base de dados
+        name: 'Neste projeto desenvolvi uma pagina web utilizando base de dados '
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/Captura de ecrã 2024-10-04 153615.png
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-d
+    variant: variant-c
+    elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
+        width: wide
         padding:
-          - pt-24
-          - pb-24
-          - pr-4
+          - pt-28
+          - pb-28
           - pl-4
-        alignItems: center
+          - pr-4
         justifyContent: center
-        flexDirection: row
       title:
         textAlign: left
-      text:
+      subtitle:
         textAlign: left
+  - type: TestimonialsSection
+    testimonials:
+      - type: Testimonial
+        quote: |
+          TextBasedGame - Aventura
+        name: >-
+          Trabalho desenvolvido em Python, onde foi implementado um jogo
+          TextBased. O objetivo inicial passa por criar uma plataforma de
+          decisão de 4 níveis. O meu tema é uma aventura por uma floresta
+          escura.
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/Captura de ecrã 2024-10-04 154743.png
+          altText: John Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+      - type: Testimonial
+        quote: "Desenvolvimento de uma página web utilizando a base de dados\_\n\n"
+        name: >-
+          Neste projeto desenvolvi uma pagina web onde utilizava uma base de
+          dados e consistia em adicionar utilizadores com nome, sobrenome e
+          localização 
+        title: ''
+        image:
+          type: ImageBlock
+          url: /images/Captura de ecrã 2024-10-04 154928.png
+          altText: Johnna Doe
+          caption: Caption of the image
+          elementId: ''
+        elementId: ''
+        styles:
+          name:
+            fontWeight: 400
+          title:
+            fontWeight: 400
+    colors: colors-d
+    variant: variant-c
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-28
+          - pb-28
+          - pl-4
+          - pr-4
+        justifyContent: center
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+  - type: QuoteSection
+    quote: |+
+
+
+
+
+    name: ''
+    title: Gonçalo Silva - 14450
+    colors: colors-f
+    elementId: ''
+    styles:
+      self:
+        height: auto
+        width: wide
+        padding:
+          - pt-0
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+        borderWidth: 1
+      quote:
+        textAlign: center
+      name:
+        fontWeight": 500
+        textAlign: center
+      title:
+        fontWeight": 400
+        textAlign: center
 backgroundImage:
   type: BackgroundImage
   backgroundSize: auto
