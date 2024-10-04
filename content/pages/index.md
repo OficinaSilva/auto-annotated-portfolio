@@ -14,7 +14,7 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: ''
-    subtitle: 'Gonçalo Silva    '
+    subtitle: ''
     styles:
       self:
         height: auto
