@@ -68,7 +68,7 @@ sections:
     subtitle: ''
     items:
       - type: Label
-        label: HTML
+        label: HTML5
         url: ''
       - type: Label
         label: Hardware
@@ -83,13 +83,25 @@ sections:
         label: Fotografia
         url: ''
       - type: Label
-        label: CSS
+        label: CSS3
         url: ''
       - type: Label
         label: MySQL
         url: ''
       - type: Label
         label: Arduino
+        url: ''
+      - type: Label
+        label: C
+        url: ''
+      - type: Label
+        label: POO
+        url: ''
+      - type: Label
+        label: VIEW.JS
+        url: ''
+      - type: Label
+        label: NODE.JS
         url: ''
     colors: colors-f
     elementId: ''
